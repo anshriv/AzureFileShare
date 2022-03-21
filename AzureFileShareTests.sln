@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.547
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFileShareTests", "AzureFileShareTests\AzureFileShareTests.csproj", "{A65A2E4D-DA78-448D-A6C8-42CA1DAAE38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65A2E4D-DA78-448D-A6C8-42CA1DAAE38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65A2E4D-DA78-448D-A6C8-42CA1DAAE38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65A2E4D-DA78-448D-A6C8-42CA1DAAE38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65A2E4D-DA78-448D-A6C8-42CA1DAAE38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972880DD-0010-40C6-8AAF-322A45C70B78}
+	EndGlobalSection
+EndGlobal
